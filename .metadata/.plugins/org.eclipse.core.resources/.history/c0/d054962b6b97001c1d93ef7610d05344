@@ -1,0 +1,11 @@
+import javax.swing.JOptionPane;
+import org.opentutorials.iot.Elevator;
+
+public class iotjava{
+	public static void main(String[] args) {
+		String id = JOptionPane.showInputDialog("Enter a path");
+		
+		Elevator myElevator = new Elevator(id);
+		myElevator.callForUp(1);
+	}
+}

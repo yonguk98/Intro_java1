@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;stiringoperation/stringoperation&apos; to &apos;stringoperation.java&apos;" description="Rename resource &apos;stringoperation&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="stringoperation" name="stringoperation.java" stamp="1645685875929" updateReferences="true"/>
+</session>

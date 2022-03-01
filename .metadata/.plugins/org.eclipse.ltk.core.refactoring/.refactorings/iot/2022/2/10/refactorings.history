@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;iot/iotjava&apos; to &apos;iotjava.java&apos;" description="Rename resource &apos;iotjava&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="iotjava" name="iotjava.java" stamp="1645923589014" updateReferences="true"/>
+</session>

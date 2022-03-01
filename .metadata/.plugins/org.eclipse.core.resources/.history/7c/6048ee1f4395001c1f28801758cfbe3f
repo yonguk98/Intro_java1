@@ -1,0 +1,6 @@
+public class letter{
+	public static void main(String[] args){
+		String name = "abc";
+		System.out.println("hello, " +name+ " ... " +name+ " def .. bye");
+		}
+}
